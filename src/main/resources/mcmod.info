@@ -1,0 +1,15 @@
+[
+{
+  "modid": "dragonballzmod",
+  "name": "Dragon Ball Z",
+  "description": "An awesome mod with features from the hit anime Dragon Ball Z",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SEKWAH41", "Nuova15" ,"liam3011"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
