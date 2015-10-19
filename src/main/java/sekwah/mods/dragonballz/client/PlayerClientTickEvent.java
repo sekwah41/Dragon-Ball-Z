@@ -38,6 +38,7 @@ public class PlayerClientTickEvent {
     public int animationUpdate; // use at some point to update animations after they have been set.
     private boolean hasSentUpdatePacket = false;
 
+    // TODO add it so that the default animation is also stored so it changes it to that before the other poses are executed.
     public PlayerClientTickEvent(){
         defaultAnims.add("default");
         defaultAnims.add("flying");
