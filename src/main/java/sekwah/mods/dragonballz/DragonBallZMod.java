@@ -50,7 +50,7 @@ public class DragonBallZMod {
     public static final Logger LOGGER = LogManager.getLogger("DragonBallZ");
 
     //Proxy:
-    @SidedProxy(clientSide = "sekwah.mods.client.ClientProxy", serverSide = "sekwah.mods.common.CommonProxy")
+    @SidedProxy(clientSide = "sekwah.mods.dragonballz.client.ClientProxy", serverSide = "sekwah.mods.dragonballz.common.CommonProxy")
     public static CommonProxy proxy;
 
 
